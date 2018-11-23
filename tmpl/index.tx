@@ -90,6 +90,12 @@
 <form method="post" action="/reset_counter">
     <input type="submit" name="Reset counter." class="btn btn-default">
 </form>
-     
+
+<h2>Perl and Amon2 Link.</h2>
+<ul>
+<li>http://hirobanex.net/article/2013/01/1357122703?utm_source=zenback&utm_medium=http%3A//blog.uzutaka.com/entry/2013/11/27/022601&utm_campaign=zb_related_links</li>
+<li>http://www.kent-web.com/perl/chap7.html</li>
+<li>http://blog.uzutaka.com/entry/2013/11/27/022601</li>
+</ul>
 
 : }
