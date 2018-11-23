@@ -1,0 +1,5 @@
+/Users/me/tmp/perl/MyApp/local/lib/perl5/HTTP/Entity/Parser.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/HTTP/Entity/Parser/JSON.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/HTTP/Entity/Parser/MultiPart.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/HTTP/Entity/Parser/OctetStream.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/HTTP/Entity/Parser/UrlEncoded.pm

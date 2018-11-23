@@ -1,0 +1,9 @@
+/Users/me/tmp/perl/MyApp/local/lib/perl5/SQL/Maker.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/SQL/Maker/Condition.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/SQL/Maker/Plugin/InsertMulti.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/SQL/Maker/Plugin/InsertOnDuplicate.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/SQL/Maker/SQLType.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/SQL/Maker/Select.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/SQL/Maker/Select/Oracle.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/SQL/Maker/SelectSet.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/SQL/Maker/Util.pm

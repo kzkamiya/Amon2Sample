@@ -1,0 +1,11 @@
+/Users/me/tmp/perl/MyApp/local/lib/perl5/Plack/Middleware/Session.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/Plack/Middleware/Session/Cookie.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/Plack/Session.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/Plack/Session/Cleanup.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/Plack/Session/State.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/Plack/Session/State/Cookie.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/Plack/Session/Store.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/Plack/Session/Store/Cache.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/Plack/Session/Store/DBI.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/Plack/Session/Store/File.pm
+/Users/me/tmp/perl/MyApp/local/lib/perl5/Plack/Session/Store/Null.pm
