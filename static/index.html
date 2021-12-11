@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>MyApp</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta name="format-detection" content="telephone=no" />
+    <script src="../static/js/jquery-2.1.1.min.js"></script>
+    <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" />
+    <script src="../static/bootstrap/js/bootstrap.js"></script>
+    <script src="../static/js/es5-shim.min.js"></script>
+    <script src="../static/js/micro_template.js"></script>
+    <script src="../static/js/strftime.js"></script>
+    <script src="../static/js/sprintf.js"></script>
+    <script src="../static/js/micro-location.js"></script>
+    <script src="../static/js/micro_dispatcher.js"></script>
+    <script src="../static/js/xsrf-token.js"></script>
+    <link href="../static/css/main.css" rel="stylesheet" type="text/css" media="screen" />
+    <script src="../static/js/main.js"></script>
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <div class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">MyApp</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Link</a></li>
+                </ul>
+            </div>
+        </div><!-- /.container -->
+    </div><!-- /.navbar -->
+    <div class="container">
+        <div id="main">
+        
+        
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#sampleModal">
+	モーダル・ダイアログ 呼び出し
+</button>
+
+<!-- モーダル・ダイアログ -->
+<div class="modal fade" id="sampleModal" tabindex="-1">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal"><span>×</span></button>
+				<h4 class="modal-title">タイトル</h4>
+			</div>
+			<div class="modal-body">
+				本文
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">閉じる</button>
+				<button type="button" class="btn btn-primary">ボタン</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="jumbotron">
+	<h1>ジャンボトロン</h1>
+	<p>WEBサイトにおける主要コンテンツを紹介するのに適したスタイル。</p>
+	<p><a class="btn btn-primary btn-lg" href="./jumbotron.html" role="button">もっと詳しく</a></p>
+</div>
+
+<div class="jumbotron">
+	<div class="container">
+		<h1>サンプル</h1>
+		<p><a class="ban btn-primary ban-lg" href="../components/jumbotron.html#usage1" target="_blank" role="button">ジャンボトロン</a></p><p>ここで入力する</p>
+	</div>
+</div>
+
+		        	
+        </div>
+        <footer class="footer">
+        
+        <a href="http://bootstrap3.cyberlab.info" >Bootstrap3 </a>
+        <br>
+            Powered by <a href="http://amon.64p.org/">Amon2</a>
+        </footer>
+    </div>
+</body>
+</html>
